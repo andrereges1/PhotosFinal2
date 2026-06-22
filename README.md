@@ -19,7 +19,7 @@ Ela roda no seu computador com Python e Streamlit. As fotos não são enviadas p
 No terminal, entre na pasta do projeto:
 
 ```powershell
-cd c:\Projetos\foto-10x15-facil
+cd c:\Projetos\PhotosFinal2
 ```
 
 Crie o ambiente virtual:
