@@ -60,6 +60,30 @@ Depois, abra o endereço mostrado no terminal, normalmente:
 http://localhost:8501
 ```
 
+## Como abrir pela janela do Windows
+
+Também é possível abrir o app por uma janela simples de controle.
+
+Com o ambiente virtual ativado, rode:
+
+```powershell
+python launcher.py
+```
+
+Ou dê dois cliques em:
+
+```text
+iniciar_launcher.bat
+```
+
+Na janela **Foto 10x15 Fácil**:
+
+- **Iniciar programa** inicia o app Streamlit e abre `http://localhost:8501` no navegador.
+- **Abrir no navegador** abre o endereço do app quando ele já estiver rodando.
+- **Encerrar programa** fecha o Streamlit iniciado pela janela.
+
+A janela serve apenas como painel de controle. O app principal continua sendo o Streamlit em `app.py`.
+
 ## Como usar
 
 1. Clique em **Selecione suas fotos**.
